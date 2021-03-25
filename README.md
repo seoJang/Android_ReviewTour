@@ -1,2 +1,2 @@
-# Android_ReviewTour
-Android_ReviewTour 개발용
+# Android_ReviewTalk 
+Android_ReviewTalk 개발용
